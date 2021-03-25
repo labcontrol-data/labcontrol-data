@@ -1,6 +1,6 @@
 # Labcontrol
 
-<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="vehicleCAN/images/logo.png"></a></p>
+<p align="center"><a href="http://www.labcontrol.xyz/dokuwiki" target="_blank" rel="noopener"><img src="labcontrol-data/mr-damper/images/logo.png"></a></p>
 
 # [Labcontrol, Brazil](http://www.labcontrol.xyz/dokuwiki)
 
