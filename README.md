@@ -24,23 +24,3 @@ More information
 * You are free to use the all the data of this repository in your research. If you do so, please contact the author [Prof. Alessandro N. Vargas](http://www.anvargas.com) 
 and let him know about your project. Depending on your research area, the author can help you interpret the data according to your application. 
 The author can also suggest papers and books that can be helpful in your research.
-
-Citation
-------
-How to cite the data of this repository:
-
-```
-@misc{vargasGithub2021,
-    author       = {A. N. Vargas},
-    title        = {Data, source code, and documents for the automotive throttle valve experiments for emulating a {CAN}},
-    month        = {March},
-    year         = 2021,
-    doi          = {10.5281/zenodo.4445334},
-    version      = {1.0.1},
-    publisher    = {Zenodo},
-    url          = {https://zenodo.org/badge/latestdoi/348076206}
-};
-```
-
-
-
